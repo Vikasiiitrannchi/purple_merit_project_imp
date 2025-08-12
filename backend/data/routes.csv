@@ -1,0 +1,11 @@
+route_id,distance_km,traffic_level,base_time_min
+1,25,High,125
+2,12,High,48
+3,6,Low,18
+4,15,Medium,60
+5,7,Low,35
+6,15,Low,75
+7,20,Medium,100
+8,19,Low,76
+9,9,Low,45
+10,22,High,88
